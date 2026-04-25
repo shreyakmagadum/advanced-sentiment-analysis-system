@@ -1,0 +1,24 @@
+/* Background */
+.main {
+    background-color: #f5f7fa;
+}
+
+/* Text area */
+textarea {
+    border-radius: 10px !important;
+}
+
+/* Buttons */
+button {
+    border-radius: 8px !important;
+}
+
+/* Success message */
+.stSuccess {
+    border-radius: 10px;
+}
+
+/* Info message */
+.stInfo {
+    border-radius: 10px;
+}
